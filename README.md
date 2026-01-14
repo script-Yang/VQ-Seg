@@ -41,6 +41,7 @@ XXX/
 │
 ├── train-unlabel/              # Unlabeled training set
 │   └── image/                  # Images without ground truth masks
+│   └── mask/                  
 │
 ├── val/                        # Validation set
 │   ├── image/                  # Validation images (.png)
