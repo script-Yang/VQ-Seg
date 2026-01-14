@@ -8,11 +8,11 @@
 
 **2026.01.14 — Initial Release (v1)**  
 
-This is the first public release of VQSEG.  
-Due to a device migration during my graduate application period, several components were re-implemented, and the current version may still require further polishing and hyperparameter adjustments for best performance.
+This is the **first public release** of VQ-Seg.
+Due to a device migration during my graduate application period, several components were re-implemented, and the current version may still require additional polishing and hyperparameter tuning to achieve the best performance.
 
-I am continuing to refine the repository. Suggestions and feedback are always welcome—feel free to reach out or open an issue.
-
+I am actively refining the repository. Suggestions and feedback are always welcome.
+Please feel free to contact me at syang671@connect.hkust-gz.edu.cn or open an issue.
 
 ## Implementations
 
