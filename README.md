@@ -76,7 +76,7 @@ This version was converted from the files provided in the SSL4MIS repository:
 If you use the dataset in your research, please make sure to cite the **original ACDC paper**.
 
 **Download:**  
-👉 *[ACDC-PNG Dataset (converted version)](https://drive.google.com/file/d/1MSj1GEK1bVLjkBkUDG57Ir6eKeE_Dxrl/view?usp=drive_link)*
+👉 *[ACDC-PNG Dataset (Our converted version)](https://drive.google.com/file/d/1MSj1GEK1bVLjkBkUDG57Ir6eKeE_Dxrl/view?usp=drive_link)*
 
 
 ## Training
@@ -114,7 +114,7 @@ Please note that these results are not fully optimized. With further hyperparame
 
 ## Acknowledgement
 
-The VQSeg codebase adapts components from [Unimatch](https://github.com/LiheYoung/UniMatch).  
+The VQSeg codebase adapts components from [UniMatch](https://github.com/LiheYoung/UniMatch).  
 We thank the authors for their excellent work.
 
 ## Citation
