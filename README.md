@@ -71,7 +71,7 @@ XXX/
 
 I created a convenient PNG-formatted version of the ACDC dataset.  
 This version was converted from the files provided in the SSL4MIS repository:  
-[SSL4MIS ACDC (PNG) Version](https://github.com/HiLab-git/SSL4MIS/tree/master/data/ACDC)
+[SSL4MIS ACDC Version](https://github.com/HiLab-git/SSL4MIS/tree/master/data/ACDC)
  
 If you use the dataset in your research, please make sure to cite the **original ACDC paper**.
 
