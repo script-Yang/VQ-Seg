@@ -25,6 +25,7 @@ Please feel free to contact me at syang671@connect.hkust-gz.edu.cn or open an is
 - **Pretrained Weights**:  
   This project uses **DINOv2** as the backbone.  
   Please download the corresponding pretrained weights (e.g., dinov2-small) and set the `weights_path` in the script.
+  [DINOv2 Repo](https://github.com/facebookresearch/dinov2)
 
 - **Dataset Preparation**:  
   Prepare your dataset following the structure below.
