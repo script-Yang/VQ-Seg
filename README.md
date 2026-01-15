@@ -23,7 +23,7 @@ Please feel free to contact me at syang671@connect.hkust-gz.edu.cn or open an is
   `pip install -r requirements.txt`
 
 - **Pretrained Weights**:  
-  This project uses **DINOv2** as the backbone   (You can find the [DINOv2 repository here.](https://github.com/facebookresearch/dinov2)).  
+  This project uses **DINOv2** as the backbone   (You can find the [DINOv2 repository here.](https://github.com/facebookresearch/dinov2))
   Please download the pretrained weights (e.g., dinov2-small) and set the `weights_path` in the script.
 
 
