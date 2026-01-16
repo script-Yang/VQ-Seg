@@ -4,6 +4,17 @@
 ## Paper
 [🔍VQ-Seg Paper Link](https://openreview.net/pdf?id=Gt8iKyg12u)
 
+
+## 🤗 Hugging Face: Dataset & Model
+
+- **Dataset (ACDC‑PNG)**: [https://huggingface.co/datasets/yscript/ACDC-PNG](https://huggingface.co/datasets/yscript/ACDC-PNG)  
+  PNG-formatted ACDC dataset for semi-supervised medical image segmentation.
+
+- **Pretrained Model (VQ-Seg)**: [https://huggingface.co/yscript/vqseg](https://huggingface.co/yscript/vqseg)  
+  Pretrained checkpoint trained on ACDC-PNG, ready for inference or fine-tuning.
+
+
+
 ## Code Release Notes
 
 **2026.01.14 — Initial Release (v1)**  
