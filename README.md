@@ -1,8 +1,15 @@
 # VQ-Seg
+<h5 align="center">
+
+[![arXiv](https://img.shields.io/badge/Arxiv-2601.10124-AD1C18.svg?logo=arXiv)](https://arxiv.org/abs/2601.10124)
+
+
+</h5>
+
 (NeurIPS 2025) VQ-Seg: Vector-Quantized Token Perturbation for Semi-Supervised Medical Image Segmentation
 
 ## Paper
-[🔍VQ-Seg Paper Link](https://openreview.net/pdf?id=Gt8iKyg12u)
+[🔍OpenReview VQ-Seg Paper Link](https://openreview.net/pdf?id=Gt8iKyg12u)
 
 
 ## 🤗 Hugging Face: Dataset & Model
